@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 May 2022 20:43:13 at https://royborkin.editorx.io/osthesis---royborkin +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://royborkin.editorx.io/osthesis---royborkin -O1 "C:\Users\roybo\Desktop\New folder\OSTHESIS - RoyBorkin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/decodeURIComponent(e (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/sitemap.xml (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/feed.xml (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/ (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/265e9a4a.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/18f3b6df.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/4a6a7fc9.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/37bd0eeb.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/ba7d2620.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/0078bb82.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/186633ba.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/2aa93db9.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/9a0ae350.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/e8ad17f3.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~bootstrap-classic.8c7d9b7b.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~bootstrap-responsive.e8ad17f3.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~common-site-members-dialogs.1cd0180b.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:28	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/rb_wixui.thunderbolt~bootstrap.9a0ae350.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin)
+20:43:39	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/decodeURIComponent(e (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:39	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/robots.txt (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:39	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/feed.xml (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/265e9a4a.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/18f3b6df.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/4a6a7fc9.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/ba7d2620.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/186633ba.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/9a0ae350.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/e8ad17f3.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~bootstrap-classic.8c7d9b7b.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~bootstrap-responsive.e8ad17f3.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~common-site-members-dialogs.1cd0180b.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://royborkin.editorx.io/osthesis---royborkin/company)
+20:43:40	Error: 	"Not Found" (404) at link https://royborkin.editorx.io/osthesis---royborkin/rb_wixui.thunderbolt~bootstrap.9a0ae350.chunk.min.js (from https://royborkin.editorx.io/osthesis---royborkin/company)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 79 links scanned, 40 files written (2886957 bytes overall) [1065917 bytes received at 38068 bytes/sec], 2608684 bytes transferred using HTTP compression in 54 files, ratio 25%, 2.0 requests per connection
+(38 errors, 0 warnings, 0 messages)
